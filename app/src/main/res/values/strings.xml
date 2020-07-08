@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">JumbleWordGame</string>
+    <string name="city_name">
+        Sequence of city name`s letter is given in random manner
+        ,make the letter in sequence order
+    </string>
+    <string name="fruit_name">
+          Sequence of fruits name`s letter is given in random manner
+        ,make the letter in sequence order
+    </string>
+    <string name="book_name">
+          Sequence of famous  books of Premchand is given in random manner
+        ,make the letter in sequence order
+    </string>
+    <string name="birds_name">
+          Sequence of birds name`s letter is given in random manner
+        ,make the letter in sequence order
+    </string>
+    <string name="animal_name">
+          Sequence of animal name`s letter is given in random manner
+        ,make the letter in sequence order
+    </string>
+    <string name="human_personality">
+         Sequence of Human personality name`s letter is given in random manner
+        ,make the letter in sequence order
+    </string>
+</resources>
